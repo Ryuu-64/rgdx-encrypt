@@ -1,6 +1,10 @@
 .gradle
 /build/
 
+# JetBrains IntelliJ
+*.iml
+/.idea/
+
 # Ignore Gradle GUI config
 gradle-app.setting
 
